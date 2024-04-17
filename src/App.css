@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+li button {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+
+button {
+  margin: 3px;
+}
